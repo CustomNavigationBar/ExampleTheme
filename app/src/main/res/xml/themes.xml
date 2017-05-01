@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme-package>
+    <theme title="@string/theme_example">
+        <item name="ic_sysbar_back" drawable="@drawable/example_ic_sysbar_back" />
+        <item name="ic_sysbar_home" drawable="@drawable/example_ic_sysbar_home" />
+        <item name="ic_sysbar_recent" drawable="@drawable/example_ic_sysbar_recent" />
+    </theme>
+</theme-package>
